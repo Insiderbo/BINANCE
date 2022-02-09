@@ -82,6 +82,30 @@ D:\Документы\RSI\obj\Debug\RSI_test.application
 D:\Документы\RSI\obj\Debug\RSI_test.csproj.CopyComplete
 D:\Документы\RSI\obj\Debug\RSI_test.exe
 D:\Документы\RSI\obj\Debug\RSI_test.pdb
+<<<<<<< HEAD
+D:\GitHub\BINANCE\bin\Debug\RSI_test.exe.config
+D:\GitHub\BINANCE\bin\Debug\RSI_test.exe.manifest
+D:\GitHub\BINANCE\bin\Debug\RSI_test.application
+D:\GitHub\BINANCE\bin\Debug\RSI_test.exe
+D:\GitHub\BINANCE\bin\Debug\RSI_test.pdb
+D:\GitHub\BINANCE\bin\Debug\Newtonsoft.Json.dll
+D:\GitHub\BINANCE\bin\Debug\Telegram.Bot.dll
+D:\GitHub\BINANCE\bin\Debug\websocket-sharp.dll
+D:\GitHub\BINANCE\bin\Debug\Newtonsoft.Json.xml
+D:\GitHub\BINANCE\bin\Debug\Telegram.Bot.xml
+D:\GitHub\BINANCE\bin\Debug\websocket-sharp.xml
+D:\GitHub\BINANCE\obj\Debug\RSI_test.csproj.AssemblyReference.cache
+D:\GitHub\BINANCE\obj\Debug\RSI_test.csproj.SuggestedBindingRedirects.cache
+D:\GitHub\BINANCE\obj\Debug\RSI_test.Form1.resources
+D:\GitHub\BINANCE\obj\Debug\RSI_test.Properties.Resources.resources
+D:\GitHub\BINANCE\obj\Debug\RSI_test.csproj.GenerateResource.cache
+D:\GitHub\BINANCE\obj\Debug\RSI_test.csproj.CoreCompileInputs.cache
+D:\GitHub\BINANCE\obj\Debug\RSI_test.exe.manifest
+D:\GitHub\BINANCE\obj\Debug\RSI_test.application
+D:\GitHub\BINANCE\obj\Debug\RSI_test.csproj.CopyComplete
+D:\GitHub\BINANCE\obj\Debug\RSI_test.exe
+D:\GitHub\BINANCE\obj\Debug\RSI_test.pdb
+=======
 D:\GitHub\Binance\bin\Debug\RSI_test.exe.config
 D:\GitHub\Binance\bin\Debug\RSI_test.exe.manifest
 D:\GitHub\Binance\bin\Debug\RSI_test.application
@@ -104,3 +128,4 @@ D:\GitHub\Binance\obj\Debug\RSI_test.csproj.CopyComplete
 D:\GitHub\Binance\obj\Debug\RSI_test.exe
 D:\GitHub\Binance\obj\Debug\RSI_test.pdb
 D:\GitHub\Binance\obj\Debug\RSI_test.csproj.AssemblyReference.cache
+>>>>>>> 962b1b4a87819f9620329f3f053593f0935db5a6
