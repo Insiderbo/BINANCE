@@ -152,7 +152,7 @@ namespace RSI_test
 
         public async Task Get_Pairs()
         {
-            var ww = await LoadUrlAsText("https://api.binance.com/api/v1/exchangeInfo");//[JSON].symbols.[0].quoteAsset
+            var ww = await LoadUrlAsText("https://api.binance.com/api/v1/exchangeInfo");
             dynamic d = JsonConvert.DeserializeObject(ww);            
             int count = d.rateLimits[0]["limit"];
 
