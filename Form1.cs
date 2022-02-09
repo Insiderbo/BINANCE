@@ -152,14 +152,15 @@ namespace RSI_test
 
         public async Task Get_Pairs()
         {
-
-            dynamic d = JsonConvert.DeserializeObject(await LoadUrlAsText("https://api.binance.com/api/v1/exchangeInfo"));
+            var ww = await LoadUrlAsText("https://api.binance.com/api/v1/exchangeInfo");//[JSON].symbols.[0].quoteAsset
+            dynamic d = JsonConvert.DeserializeObject(ww);            
             int count = d.rateLimits[0]["limit"];
+
             foreach (var master in pairs.Keys)
             {
-                for (var i = 0; i < count; i++)
+                foreach (var item in d.symbols)//[JSON].symbols
                 {
-                    string symbol = (d.symbols[i]["symbol"]).ToString();
+                    string symbol = (item["symbol"]).ToString();
 
                     if (symbol.Contains(master))
                     {
